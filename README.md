@@ -14,7 +14,7 @@
 2. فتح phpMyAdmin واستيراد قاعدة البيانات project.sql
 3. نقل ملفات المشروع (`index.php`, toggle.php, project.sql`) إلى مجلد `htdocs/project
 4. فتح الرابط:  
-   http://localhost/project/index.php
+   http://localhost/smart_methods/index.php
 5. تجربة إدخال بيانات واستخدام زر Toggle لتغيير الحالة
 
 ## محتويات المشروع
